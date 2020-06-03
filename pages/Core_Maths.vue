@@ -200,20 +200,22 @@
       items: [
           {
             title: 'SURD',
-            active: true,
             items: [
               { title: 'Introduction to Surds',src: 'https://www.youtube.com/watch?v=SoEzLo8yJj0' },
               { title: 'Simplification of Surds',src: 'https://www.youtube.com/watch?v=x1bzwiWEG-4' },
               { title: 'Operations on Surds',src: 'https://www.youtube.com/watch?v=rSZC_MqaEmo' },
               { title: 'Rationalization of Surds',src:'https://www.youtube.com/watch?v=IgFedhQmZaw' },
-              { title: 'Examples on Surds',src: '' },
+              { title: 'Example_1',src: 'https://www.youtube.com/watch?v=KDgJZtniRbI' },
+              { title: 'Example_2',src: 'https://www.youtube.com/watch?v=yaE8-h-VkgU' },
+              { title: 'Example_3',src: 'https://www.youtube.com/watch?v=iO7o0PvQRCk' },
             ],
           },
           {
             title: 'Indices',
+            active: true,
             items: [
-              { title: 'Introduction',src:"" },
-              { title: 'Laws of Indices',src:"" },
+              { title: 'Introduction',src:"https://www.youtube.com/watch?v=MotYMFiF50k" },
+              { title: 'Laws of Indices',src:"https://www.youtube.com/watch?v=xuTbmZDG90k" },
               { title: 'Standard Forms(Scientific Notations)',src:"" },
               { title: 'Examples on Indices',src:"" },
             ],
