@@ -216,8 +216,11 @@
             items: [
               { title: 'Introduction',src:"https://www.youtube.com/watch?v=MotYMFiF50k" },
               { title: 'Laws of Indices',src:"https://www.youtube.com/watch?v=xuTbmZDG90k" },
+              { title: 'Equations Involving Indices',src:"https://www.youtube.com/watch?v=j2nkQ7u9_ew" },
+              { title: 'Example One',src:"https://www.youtube.com/watch?v=4e7bMbcAus4" },
+              { title: 'Example Two',src:"https://www.youtube.com/watch?v=AWaNRErwYjE" },
               { title: 'Standard Forms(Scientific Notations)',src:"" },
-              { title: 'Examples on Indices',src:"" },
+              { title: 'Further examples on Indices',src:"" },
             ],
           },
         ],
